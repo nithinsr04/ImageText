@@ -52,7 +52,7 @@ Tesseract.js is used to perform Optical Character Recognition on the uploaded im
 
 The image is processed in the frontend React app, and once the text is extracted, it's displayed to the user in real-time.
 
----
+
 ##Development
 If you wish to contribute or develop further features, here are some useful commands:
 
@@ -67,7 +67,7 @@ Build the project for production
   npm run build
 ```
 -This will create an optimized production build of your app in the dist folder.
----
+
 ---
 ## Contact
 - For questions or support, please contact:
